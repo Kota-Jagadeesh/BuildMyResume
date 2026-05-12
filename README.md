@@ -54,7 +54,7 @@ Because this project includes a service worker, use a local HTTP server (not `fi
 ### Option 1: Python (recommended)
 
 ```bash
-cd /home/runner/work/BuildMyResume/BuildMyResume
+cd path/to/BuildMyResume
 python3 -m http.server 8000
 ```
 
