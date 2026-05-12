@@ -92,7 +92,3 @@ Resume content is stored in your browser local storage:
 
 - This is a static frontend project; no backend setup is required.
 - Export quality may vary slightly by browser because rendering depends on client-side libraries.
-
-## License
-
-No license file is currently included in this repository.
