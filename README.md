@@ -4,25 +4,14 @@ BuildMyResume is a single-page web app to create professional resumes with a liv
 
 ## Features
 
-- Live resume preview while editing
-- Resume sections for:
-  - Personal information
-  - Summary
-  - Education
-  - Experience
-  - Projects
-  - Honors & Awards
-  - Certifications
-  - Technical skills
-  - Language proficiency (star rating)
-- Add/remove entries dynamically
-- Date dropdowns with `Present` support for ongoing roles
-- Dark mode toggle (saved in local storage)
-- Auto-save every 30 seconds to browser local storage
-- Export as:
-  - PDF
-  - PNG image
-- Sample data loader for quick start
+- **Live editing with instant preview:** As you type in the form, the resume preview updates immediately so you can see formatting and content changes in real time.
+- **Complete resume sections:** The builder supports personal details, professional summary, education, experience, projects, honors and awards, certifications, technical skills, and language proficiency ratings.
+- **Dynamic section management:** You can add or remove entries for education, experience, projects, honors, certifications, and languages based on your profile needs.
+- **Smart date input handling:** Date dropdowns support month/year ranges and a `Present` option for current roles or ongoing education.
+- **Built-in personalization controls:** A dark mode toggle is available, and your theme preference is saved locally for future visits.
+- **Automatic and manual local persistence:** Resume data is auto-saved every 30 seconds in browser local storage, and keyboard shortcuts are available for manual save/export actions.
+- **Easy export options:** You can download your resume as a PDF or PNG image directly from the app.
+- **Quick-start sample content:** A sample data loader helps you instantly populate the form and understand the expected resume structure.
 
 ## Tech Stack
 
